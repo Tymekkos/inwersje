@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1651923979 source:c:\users\tymek\desktop\tymek\8loinformatykac++\matura2021szkola\inwersje\main.cpp
+	<cmath>
+	<iostream>
+	<iomanip>
+	<algorithm>
+	<cstdlib>
+
